@@ -5,12 +5,12 @@ Artificial Intelligence & Data Science Student | AI Developer | Data Analytics |
 </h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=shiva123786&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Anand2252024&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 <p align="center">
 <a href="https://github.com/Anand2252024">
-<img src="https://img.shields.io/github/followers/shiva123786?logo=github&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Anand2252024?logo=github&style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dharavath-anand225/">
@@ -58,10 +58,10 @@ B.E. Artificial Intelligence & Data Science
 
 ### 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,jjs,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
 </p>
 
-**Languages:** `Python` •  `JavaScript` • `SQL` • `HTML5` • `CSS3`
+**Languages:** `Python` • `JavaScript` • `SQL` • `HTML5` • `CSS3`
 
 ---
 
@@ -121,23 +121,11 @@ B.E. Artificial Intelligence & Data Science
 
 🧩 Problem Solving • 🧠 Analytical Thinking • 🤝 Team Collaboration • 💬 Communication • 📚 Continuous Learning
 
-# 💼 Experience
-### 🤖 AI Developer Intern — Viswam.AI
-### 📊 Data Science & Analytics Intern — Future Interns
-### 💻 Web Developer Intern — The Developer Arena
 ---
 
 # 🚀 Featured Projects
 
-## ☁️ CloudSentinel (Ongoing)
-
-Autonomous Zero-Trust AI Firewall for Intelligent Cloud Security.
-
-- AI Powered Risk Analysis
-- Continuous Authentication
-- Dynamic User Verification
-- Hidden Encrypted Replica
-- Real-Time Alerts
+##       
 
 ---
 
@@ -167,7 +155,7 @@ Autonomous Zero-Trust AI Firewall for Intelligent Cloud Security.
 
 ## 📈 Contribution Graph
 
-[![Shiva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anand2252024&theme=tokyo-night&hide_border=true)](https://github.com/Anand2252024)
+[![Anand's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anand2252024&theme=tokyo-night&hide_border=true)](https://github.com/Anand2252024)
 ---
 
 # 💡 
@@ -181,19 +169,19 @@ Autonomous Zero-Trust AI Firewall for Intelligent Cloud Security.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kethavath-shiva-a6a0662b5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivakethavath100@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharavath-anand225/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ananddharavath225@gmail.com) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shiva123786&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=shiva123786&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shiva123786&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Anand2252024&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Anand2252024&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anand2252024&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repository
-![](https://github-contributor-stats.vercel.app/api?username=shiva123786&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Anand2252024&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=shiva123786&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Anand2252024&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
