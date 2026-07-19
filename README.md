@@ -51,17 +51,17 @@ B.E. Artificial Intelligence & Data Science
 
 📅 2023 – 2027
 
-⭐ CGPA **8.61 / 10**
+⭐ CGPA **7.76 / 10**
 
 ---
 ## 💻 Technical Skills
 
 ### 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,jjs,html,css,mysql" />
 </p>
 
-**Languages:** `Python` • `Java` • `JavaScript` • `SQL` • `HTML5` • `CSS3`
+**Languages:** `Python` •  `JavaScript` • `SQL` • `HTML5` • `CSS3`
 
 ---
 
@@ -143,23 +143,31 @@ Autonomous Zero-Trust AI Firewall for Intelligent Cloud Security.
 
 # 🏆 Certifications
 
-🏅 Deloitte Data Analytics
+🏅 SOAR - AI to be Aware by  MICROSOFT & NCVET
 
-🏅 IBM SkillsBuild – Data Analytics & Business Intelligence
+🏅 Data Analytics by DELOITTE
 
-🏅 Microsoft Power BI
+🏅 GenAI Powered Data Analytics Job Simulation by TATA
 
-🏅 HackerRank SQL (Advanced)
+🏅 Microsoft Azure Fundamentals
+
+🏅 Software Engineering Job Simulation by FORAGE
 
 🏅 Salesforce Agentforce Specialist
 
-🏅 Adobe India Hackathon 2025 – Round 1 Participant
+🏅 Introduction to Cyber Security by CISCO
+
+🏅 Marketing Explorer Job Simulation by FORAGE
+
+🏅 Introduction to Cyber Security by CISCO
+
+
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Shiva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shiva123786&theme=tokyo-night&hide_border=true)](https://github.com/shiva123786)
+[![Shiva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anand2252024&theme=tokyo-night&hide_border=true)](https://github.com/Anand2252024)
 ---
 
 # 💡 
